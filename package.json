@@ -210,7 +210,7 @@
     "@octokit/rest": "^19.0.4",
     "fs-minipass": "^2.1.0",
     "licensee": "^8.2.0",
-    "minimatch": "^5.1.0",
+    "minimatch": "^11.0.9",
     "nock": "^13.2.4",
     "spawk": "^1.7.1",
     "tap": "^16.0.1"
