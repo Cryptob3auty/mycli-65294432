@@ -108,7 +108,7 @@
     "npmlog": "^6.0.2",
     "opener": "^1.5.2",
     "p-map": "^4.0.0",
-    "pacote": "^14.0.0",
+    "pacote": "^21.5.1",
     "parse-conflict-json": "^2.0.2",
     "proc-log": "^2.0.1",
     "qrcode-terminal": "^0.12.0",
@@ -119,7 +119,7 @@
     "rimraf": "^3.0.2",
     "semver": "^7.3.7",
     "ssri": "^9.0.1",
-    "tar": "^6.1.11",
+    "tar": "^7.5.21",
     "text-table": "~0.2.0",
     "tiny-relative-date": "^1.3.0",
     "treeverse": "^2.0.0",
@@ -213,7 +213,7 @@
     "minimatch": "^5.1.0",
     "nock": "^13.2.4",
     "spawk": "^1.7.1",
-    "tap": "^16.0.1"
+    "tap": "^21.8.1"
   },
   "scripts": {
     "dependencies": "node scripts/bundle-and-gitignore-deps.js && node scripts/dependency-graph.js",
